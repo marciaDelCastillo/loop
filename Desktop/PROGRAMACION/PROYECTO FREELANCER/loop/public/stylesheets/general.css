@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+
+body{
+    background-image: url('/images/bg-2.png');
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-attachment: fixed;
+    
+}
+
+:root{
+    --color-azul-oscuro:#040F16;
+    --color-blanco:#FBFBFF;
+    --color-celeste:#01BAEF;
+    --color-gris:#0B4F6C;
+    --color-rojo:#B80C09;
+}
