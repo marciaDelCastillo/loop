@@ -1,0 +1,19 @@
+.portfolio .carousel-fade{
+    width: 100vw;
+    margin: auto;
+    margin-top: 4vh;
+}
+
+.portfolio .carousel-control-prev, 
+.portfolio .carousel-control-next{
+    background-color: var(--color-azul-oscuro);
+    height:40px;
+    width:40px;
+    margin:auto;
+}
+.portfolio .carousel-control-prev{
+    margin-left:20px;
+}
+.portfolio .carousel-control-next{
+    margin-right:20px;
+}

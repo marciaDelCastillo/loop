@@ -12,9 +12,10 @@ li{
 
 body{
     background-image: url('/images/bg-2.png');
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: "OCR A Extended", Verdana;
     background-attachment: fixed;
-    
+    margin-bottom: 60px;
+
 }
 
 :root{
@@ -23,4 +24,12 @@ body{
     --color-celeste:#01BAEF;
     --color-gris:#0B4F6C;
     --color-rojo:#B80C09;
+
+    
+    --color-naranja: #ff7c00;
+    --color-gris-1: #c2c2c2;
+    --color-gris-2: #535353;
+    --color-gris-3: #424242;
+    --color-gris-4: #262626;
+
 }
